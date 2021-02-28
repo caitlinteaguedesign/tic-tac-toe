@@ -1,0 +1,29 @@
+// ===========================
+// TYPOGRAPHY
+
+$daysone: 'Days One', sans-serif;
+$rajd: 'Rajdhani', sans-serif;
+$quicksand: 'Quicksand', sans-serif;
+
+h1 {
+	font-family: $daysone;
+	font-size: 2em;
+	line-height: 1.1em;
+	color: #f46274;
+}
+h2 {
+	font-family: $rajd;
+	font-size: 1.25em;
+	line-height: 1.2em;
+	color: #868a8d;
+}
+.description {
+	font-family: $quicksand;
+	font-size: 1em;
+	line-height: 1.3em;
+}
+.status {
+	font-family: $quicksand;
+	font-size: 1em;
+	line-height: 1.4em;
+}
